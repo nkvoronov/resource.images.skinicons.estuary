@@ -5,10 +5,14 @@
 		<import addon="kodi.resource" version="1.0.0"/>
 	</requires>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Skin Icons Pack - Estuary</summary>
-		<description lang="en">Skin Icons Pack - Estuary</description>
+		<summary lang="en_GB">Skin Icons Pack - Estuary</summary>
+		<summary lang="ru_RU">Набор иконок для скина - Estuary</summary>
+		<summary lang="uk_UA">Набір іконок для обкладинки - Estuary</summary>
+		<description lang="en_GB">Skin Icons Pack - Estuary</description>
+		<description lang="ru_RU">Набор иконок для скина - Estuary</description>
+		<description lang="uk_UA">Набір іконок для обкладинки - Estuary</description>
 		<platform>all</platform>
-        <email>nkvoronov@gmail.com</email>
+		<email>nkvoronov@gmail.com</email>
 		<source>https://github.com/nkvoronov/resource.images.skinicons.estuary</source>
 	</extension>
 </addon>
